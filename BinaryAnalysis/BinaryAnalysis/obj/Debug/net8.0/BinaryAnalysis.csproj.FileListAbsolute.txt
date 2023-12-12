@@ -1,0 +1,14 @@
+D:\Projects\BinaryAnalysis\BinaryAnalysis\bin\Debug\net8.0\BinaryAnalysis.exe
+D:\Projects\BinaryAnalysis\BinaryAnalysis\bin\Debug\net8.0\BinaryAnalysis.deps.json
+D:\Projects\BinaryAnalysis\BinaryAnalysis\bin\Debug\net8.0\BinaryAnalysis.runtimeconfig.json
+D:\Projects\BinaryAnalysis\BinaryAnalysis\bin\Debug\net8.0\BinaryAnalysis.dll
+D:\Projects\BinaryAnalysis\BinaryAnalysis\bin\Debug\net8.0\BinaryAnalysis.pdb
+D:\Projects\BinaryAnalysis\BinaryAnalysis\obj\Debug\net8.0\BinaryAnalysis.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\BinaryAnalysis\BinaryAnalysis\obj\Debug\net8.0\BinaryAnalysis.AssemblyInfoInputs.cache
+D:\Projects\BinaryAnalysis\BinaryAnalysis\obj\Debug\net8.0\BinaryAnalysis.AssemblyInfo.cs
+D:\Projects\BinaryAnalysis\BinaryAnalysis\obj\Debug\net8.0\BinaryAnalysis.csproj.CoreCompileInputs.cache
+D:\Projects\BinaryAnalysis\BinaryAnalysis\obj\Debug\net8.0\BinaryAnalysis.dll
+D:\Projects\BinaryAnalysis\BinaryAnalysis\obj\Debug\net8.0\refint\BinaryAnalysis.dll
+D:\Projects\BinaryAnalysis\BinaryAnalysis\obj\Debug\net8.0\BinaryAnalysis.pdb
+D:\Projects\BinaryAnalysis\BinaryAnalysis\obj\Debug\net8.0\BinaryAnalysis.genruntimeconfig.cache
+D:\Projects\BinaryAnalysis\BinaryAnalysis\obj\Debug\net8.0\ref\BinaryAnalysis.dll
